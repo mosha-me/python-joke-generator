@@ -12,9 +12,9 @@ Perfect for beginners learning Python!
 - Perfect for beginners
 
 ## 🔧 How to Run
-```bash
 python main.py
-📸 Sample Output
+
+# 📸 Sample Output
 
 ```
 Why did the math book look sad? - Because it had too many problems!
